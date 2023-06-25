@@ -1,3 +1,4 @@
+# Modified version of https://github.com/bakerboy448/StarrScripts/blob/main/xseed.sh
 #!/bin/bash
 
 torrentclientname="qBittorrent"
