@@ -1,5 +1,5 @@
-# Modified version of https://github.com/bakerboy448/StarrScripts/blob/main/xseed.sh
 #!/bin/bash
+# Modified version of https://github.com/bakerboy448/StarrScripts/blob/main/xseed.sh
 
 xseed_host="cross-seed"
 xseed_port="2468"
