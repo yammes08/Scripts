@@ -21,10 +21,10 @@ elif [ -n "$sonarr_eventtype" ]; then
     eventType=${sonarr_eventtype}
 elif [ -n "$Lidarr_EventType" ]; then
     app="lidarr"
-    clientID=${lidarr_download_client}
-    filePath=${lidarr_artist_path}
-    downloadID=${lidarr_download_id}
-    eventType=${lidarr_eventtype}
+    clientID=${lidarr_Download_Client}
+    filePath=${lidarr_Artist_Path}
+    downloadID=${lidarr_Download_Id}
+    eventType=${lidarr_EventType}
 else
     echo "Unknown Event Type. Failing."
     exit 1
